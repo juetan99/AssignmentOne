@@ -1,3 +1,10 @@
+/*
+ * CSE41246 - Android Java Fundamentals
+ * Fall 2019
+ * Assignment #1
+ * Tan, Jue
+ */
+
 package com.example.extstudent.assignmentone;
 
 import android.support.v7.app.AppCompatActivity;
@@ -33,9 +40,14 @@ public class MainActivity extends AppCompatActivity {
             }
         }
 
+    }
 
+    private void setUserInfo(){
 
     }
 
+    private void showResult(){
+
+    }
 
 }
